@@ -86,4 +86,10 @@ Daftar transaksi yang berhasil diproses dan dikonfirmasi.
 ---
 
 ## 📌 Fitur Utama
-- Pemesana
+- Pemesanan kamar secara online
+- Manajemen data pengguna & kamar
+- Informasi fasilitas hotel
+- Riwayat reservasi
+- Proses pembayaran & invoice
+- Dashboard admin untuk monitoring
+
